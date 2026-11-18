@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-11-18
+  Features:
+    - Russian for the mods of Razi Protocol in one mod, built from five translation packs
+    - thumbnail, and the in-game and portal descriptions in Russian with an English part
