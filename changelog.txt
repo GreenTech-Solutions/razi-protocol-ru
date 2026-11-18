@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2026-11-18
+  Bugfixes:
+    - [locale] LTN messages name the train network in Russian, and Abacayba is feminine in its spawn report
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-11-18
   Features:
