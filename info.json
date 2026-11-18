@@ -1,0 +1,22 @@
+{
+  "name": "razi-protocol-ru",
+  "version": "1.0.0",
+  "title": "Razi Protocol: Russian for the mods",
+  "author": "Alex Green",
+  "homepage": "https://github.com/GreenTech-Solutions/razi-protocol-ru",
+  "description": "Russian for the mods of Razi Protocol and its set that ship none or only part of it, in one mod. Built from five Russian translation packs and hand-written strings; the authors are in the README.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.0",
+    "(?) BottleneckLite",
+    "(?) aai-loaders",
+    "(?) castra-prime",
+    "(?) helmod",
+    "(?) linox",
+    "(?) planetaris-arig",
+    "(?) planetaris-hyarion",
+    "(?) planetaris-tellus",
+    "(?) rec-blue-plus",
+    "(?) slp-dyson-sphere-reworked-fork"
+  ]
+}
