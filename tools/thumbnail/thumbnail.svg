@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0b0d10"/>
+  <path d="M 427.6 233.7 L 452.3 247.8 L 438.9 297.8 L 410.5 297.7 L 398.8 317.9 L 413.1 342.5 L 376.5 379.1 L 351.9 364.8 L 331.7 376.5 L 331.8 404.9 L 281.8 418.3 L 267.7 393.6 L 244.3 393.6 L 230.2 418.3 L 180.2 404.9 L 180.3 376.5 L 160.1 364.8 L 135.5 379.1 L 98.9 342.5 L 113.2 317.9 L 101.5 297.7 L 73.1 297.8 L 59.7 247.8 L 84.4 233.7 L 84.4 210.3 L 59.7 196.2 L 73.1 146.2 L 101.5 146.3 L 113.2 126.1 L 98.9 101.5 L 135.5 64.9 L 160.1 79.2 L 180.3 67.5 L 180.2 39.1 L 230.2 25.7 L 244.3 50.4 L 267.7 50.4 L 281.8 25.7 L 331.8 39.1 L 331.7 67.5 L 351.9 79.2 L 376.5 64.9 L 413.1 101.5 L 398.8 126.1 L 410.5 146.3 L 438.9 146.2 L 452.3 196.2 L 427.6 210.3 Z" fill="#5a82b0"/>
+  <circle cx="256" cy="222" r="172" fill="#3e5f86"/>
+  <circle cx="256" cy="222" r="162" fill="#0b0d10" stroke="#f1e2bf" stroke-width="5"/>
+  <circle cx="256" cy="222" r="150" fill="none" stroke="#f1e2bf" stroke-width="3" stroke-opacity="0.9"/>
+  <circle cx="256" cy="222" r="138" fill="#0b0d10"/>
+  
+  <path d="M 164 143 Q 164 152 173 152 Q 164 152 164 161 Q 164 152 155 152 Q 164 152 164 143 Z" fill="#e3c179"/>
+  <path d="M 352 141 Q 352 148 359 148 Q 352 148 352 155 Q 352 148 345 148 Q 352 148 352 141 Z" fill="#e3c179"/>
+  <path d="M 156 280 Q 156 286 162 286 Q 156 286 156 292 Q 156 286 150 286 Q 156 286 156 280 Z" fill="#e3c179"/>
+  <path d="M 348 292 Q 348 300 356 300 Q 348 300 348 308 Q 348 300 340 300 Q 348 300 348 292 Z" fill="#e3c179"/>
+  <path d="M 260 105 Q 260 110 265 110 Q 260 110 260 115 Q 260 110 255 110 Q 260 110 260 105 Z" fill="#e3c179"/>
+  <text x="256" y="276" text-anchor="middle" font-family="Bodoni 72" font-weight="700" font-size="150" fill="#f1e2bf" stroke="#0b0d10" stroke-width="12" paint-order="stroke" stroke-linejoin="round">RU</text>
+    <circle cx="120.1" cy="158.6" r="15" fill="#c8687e" stroke="#f1e2bf" stroke-width="4"/>
+  <circle cx="115.0" cy="273.3" r="11" fill="#e3c179" stroke="#f1e2bf" stroke-width="4"/>
+  <circle cx="181.0" cy="351.9" r="15" fill="#4ea7a2" stroke="#f1e2bf" stroke-width="4"/>
+  <circle cx="204.7" cy="81.0" r="11" fill="#9b6bb0" stroke="#f1e2bf" stroke-width="4"/>
+  <circle cx="331.0" cy="92.1" r="15" fill="#e3c179" stroke="#f1e2bf" stroke-width="4"/>
+  <text x="256" y="478" text-anchor="middle" font-family="Bodoni 72" font-weight="700" font-size="40" letter-spacing="6" fill="#f1e2bf">RAZI PROTOCOL</text>
+</svg>

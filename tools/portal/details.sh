@@ -16,7 +16,8 @@ mod=$(info name)
 fields=(
   -F "mod=$mod"
   -F "title=$(info title)"
-  -F "summary=Russian for the mods of Razi Protocol and its set that ship none or only part of it, in one mod."
+  -F "summary=Русская локализация модов сборки Razi Protocol, которые не переведены или переведены не полностью.
+Russian for the mods of the Razi Protocol modpack that ship no Russian or only part of it."
   -F "description=<$here/description.md"
   -F "category=localizations"
   -F "license=default_mit"

@@ -4,7 +4,7 @@
   "title": "Razi Protocol: Russian for the mods",
   "author": "Alex Green",
   "homepage": "https://github.com/GreenTech-Solutions/razi-protocol-ru",
-  "description": "Russian for the mods of Razi Protocol and its set that ship none or only part of it, in one mod. Built from five Russian translation packs and hand-written strings; the authors are in the README.",
+  "description": "Русская локализация модов сборки Razi Protocol, которые не переведены или переведены не полностью. Перевод собран из пяти паков переводов и дополнен вручную; авторы паков указаны на странице мода и в LICENSE.\n\nRussian for the mods of the Razi Protocol modpack that ship no Russian or only part of it. Built from five translation packs and hand-written strings; the pack authors are on the mod page and in LICENSE.",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.0",
