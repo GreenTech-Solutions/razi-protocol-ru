@@ -9,6 +9,8 @@
   "dependencies": [
     "base >= 2.1.0",
     "(?) BottleneckLite",
+    "(?) Explosive_biters",
+    "(?) Moshine",
     "(?) aai-loaders",
     "(?) castra-prime",
     "(?) helmod",
@@ -16,6 +18,7 @@
     "(?) planetaris-arig",
     "(?) planetaris-hyarion",
     "(?) planetaris-tellus",
+    "(?) razi_lib",
     "(?) rec-blue-plus",
     "(?) slp-dyson-sphere-reworked-fork"
   ]
