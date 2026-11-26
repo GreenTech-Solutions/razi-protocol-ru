@@ -9,6 +9,8 @@
   "dependencies": [
     "base >= 2.1.0",
     "(?) BottleneckLite",
+    "(?) Explosive_biters",
+    "(?) Moshine",
     "(?) aai-loaders",
     "(?) castra-prime",
     "(?) helmod",
