@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: 2026-11-26
+  Features:
+    - [locale] Russian for Yuoki Industries Railway and its three add-on packs
+  Bugfixes:
+    - [locale] Russian names for the YIR locomotive nicknames, grain hoppers, lab tiles and caboose
+---------------------------------------------------------------------------------------------------
 Version: 1.2.0
 Date: 2026-11-26
   Features:
